@@ -1,1 +1,1 @@
-# clipitandsnipit
+# Text Editor Starter Code
